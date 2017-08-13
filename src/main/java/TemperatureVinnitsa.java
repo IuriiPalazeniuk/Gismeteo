@@ -15,7 +15,7 @@ public class TemperatureVinnitsa extends PageObject{
 
     public void getTempVin(){
         String temp = driver.findElement(By.xpath(temp1)).getText();
-        System.out.print("Температура в Виннице: " + temp);
+        System.out.print("Temperature in Vinnitsa: " + temp);
     }
 
 

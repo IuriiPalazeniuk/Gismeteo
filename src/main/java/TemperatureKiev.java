@@ -14,7 +14,7 @@ public class TemperatureKiev extends PageObject{
 
     public void getTempKiev(){
         String temp = driver.findElement(By.xpath(temp1)).getText();
-        System.out.print("Температура в Киеве: " + temp);
+        System.out.print("Temperature in Kiev: " + temp);
     }
 
 

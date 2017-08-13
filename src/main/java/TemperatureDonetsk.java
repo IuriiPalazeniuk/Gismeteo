@@ -14,7 +14,7 @@ public class TemperatureDonetsk extends PageObject{
 
     public void getTempDonetsk(){
         String temp = driver.findElement(By.xpath(temp1)).getText();
-        System.out.print("Температура в Донецке: " + temp);
+        System.out.print("Temperature in Donetsk: " + temp);
     }
 
 

@@ -15,7 +15,7 @@ public class TemperatureLviv extends PageObject {
 
         public void getTempLviv(){
             String temp = driver.findElement(By.xpath(temp1)).getText();
-            System.out.print("Температура во Львове: " + temp);
+            System.out.print("Temperature in Lviv: " + temp);
         }
 
 
