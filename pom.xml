@@ -7,6 +7,9 @@
     <groupId>ua.Gismeteo</groupId>
     <artifactId>Gesmeteo</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <jenkins.e2eTests.reportsDirectory>target/protractor-reports</jenkins.e2eTests.reportsDirectory>
+    </properties>
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
