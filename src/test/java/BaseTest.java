@@ -28,7 +28,6 @@ public class BaseTest {
     @After
     public void tearDown(){
         driver.quit();
-        System.out.println("Test is over");
     }
 
 }
