@@ -10,7 +10,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
  */
 public class MainPage extends PageObject{
 
-    WebDriver driver;
 
     private String tempVin = ".//*[@id='cities-teaser']/div[1]/ul[1]/li[4]/a";
     private String tempKiev = ".//*[@id='cities-teaser']/div[1]/ul[1]/li[1]/a";
