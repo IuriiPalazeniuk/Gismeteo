@@ -1,9 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by Acer on 13.08.2017.
- */
+
 public class MainTest extends BaseTest{
 
     @Test
