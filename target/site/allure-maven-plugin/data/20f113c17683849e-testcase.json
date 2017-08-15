@@ -1,0 +1,47 @@
+{
+  "uid" : "20f113c17683849e",
+  "name" : "temperatureDonetsk",
+  "title" : "Temperature donetsk",
+  "time" : {
+    "start" : 1502795706639,
+    "stop" : 1502795726298,
+    "duration" : 19659
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "108d24881848c74b",
+    "name" : "MainTest",
+    "title" : "Main test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "MainTest"
+  }, {
+    "name" : "host",
+    "value" : "Acer-ПК"
+  }, {
+    "name" : "thread",
+    "value" : "4088@Acer-ПК.main"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

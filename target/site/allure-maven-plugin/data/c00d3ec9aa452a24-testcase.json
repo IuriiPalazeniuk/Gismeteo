@@ -1,0 +1,47 @@
+{
+  "uid" : "c00d3ec9aa452a24",
+  "name" : "temperatureKiev",
+  "title" : "Temperature kiev",
+  "time" : {
+    "start" : 1502795726302,
+    "stop" : 1502795745203,
+    "duration" : 18901
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "108d24881848c74b",
+    "name" : "MainTest",
+    "title" : "Main test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "MainTest"
+  }, {
+    "name" : "host",
+    "value" : "Acer-ПК"
+  }, {
+    "name" : "thread",
+    "value" : "4088@Acer-ПК.main"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

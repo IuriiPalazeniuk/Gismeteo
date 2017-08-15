@@ -1,0 +1,47 @@
+{
+  "uid" : "61a8e5c1ac8b16a2",
+  "name" : "temperatureVinnitsa",
+  "title" : "Temperature vinnitsa",
+  "time" : {
+    "start" : 1502795666515,
+    "stop" : 1502795706431,
+    "duration" : 39916
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "108d24881848c74b",
+    "name" : "MainTest",
+    "title" : "Main test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "MainTest"
+  }, {
+    "name" : "host",
+    "value" : "Acer-ПК"
+  }, {
+    "name" : "thread",
+    "value" : "4088@Acer-ПК.main"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}
